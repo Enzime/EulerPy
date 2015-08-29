@@ -3935,7 +3935,6 @@ f(n)/f(n-1)=123456789/987654321.
 Give your answer as comma separated integers, without any whitespaces.
 
 
-
 Problem 176
 ===========
 
@@ -3981,7 +3980,6 @@ one is called a step number.
 A pandigital number contains every decimal digit from 0 to 9 at least
 once.
 How many pandigital step numbers less than 10^40 are there?
-
 
 
 Problem 179
